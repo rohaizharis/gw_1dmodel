@@ -1,0 +1,106 @@
+Saved basin 1, expAE02
+Saved basin 1, expAE03
+Saved basin 1, expAE04
+Saved basin 1, expAE05
+Saved basin 1, expAE10
+Saved basin 1, ctrlAE
+Saved basin 2, expAE02
+Saved basin 2, expAE03
+Saved basin 2, expAE04
+Saved basin 2, expAE05
+Saved basin 2, expAE10
+Saved basin 2, ctrlAE
+Saved basin 3, expAE02
+Saved basin 3, expAE03
+Saved basin 3, expAE04
+Saved basin 3, expAE05
+Saved basin 3, expAE10
+Saved basin 3, ctrlAE
+Saved basin 4, expAE02
+Saved basin 4, expAE03
+Saved basin 4, expAE04
+Saved basin 4, expAE05
+Saved basin 4, expAE10
+Saved basin 4, ctrlAE
+Saved basin 5, expAE02
+Saved basin 5, expAE03
+Saved basin 5, expAE04
+Saved basin 5, expAE05
+Saved basin 5, expAE10
+Saved basin 5, ctrlAE
+Saved basin 6, expAE02
+Saved basin 6, expAE03
+Saved basin 6, expAE04
+Saved basin 6, expAE05
+Saved basin 6, expAE10
+Saved basin 6, ctrlAE
+Saved basin 7, expAE02
+Saved basin 7, expAE03
+Saved basin 7, expAE04
+Saved basin 7, expAE05
+Saved basin 7, expAE10
+Saved basin 7, ctrlAE
+Saved basin 8, expAE02
+Saved basin 8, expAE03
+Saved basin 8, expAE04
+Saved basin 8, expAE05
+Saved basin 8, expAE10
+Saved basin 8, ctrlAE
+Saved basin 9, expAE02
+Saved basin 9, expAE03
+Saved basin 9, expAE04
+Saved basin 9, expAE05
+Saved basin 9, expAE10
+Saved basin 9, ctrlAE
+Saved basin 10, expAE02
+Saved basin 10, expAE03
+Saved basin 10, expAE04
+Saved basin 10, expAE05
+Saved basin 10, expAE10
+Saved basin 10, ctrlAE
+Saved basin 11, expAE02
+Saved basin 11, expAE03
+Saved basin 11, expAE04
+Saved basin 11, expAE05
+Saved basin 11, expAE10
+Saved basin 11, ctrlAE
+Saved basin 12, expAE02
+Saved basin 12, expAE03
+Saved basin 12, expAE04
+Saved basin 12, expAE05
+Saved basin 12, expAE10
+Saved basin 12, ctrlAE
+Saved basin 13, expAE02
+Saved basin 13, expAE03
+Saved basin 13, expAE04
+Saved basin 13, expAE05
+Saved basin 13, expAE10
+Saved basin 13, ctrlAE
+Saved basin 14, expAE02
+Saved basin 14, expAE03
+Saved basin 14, expAE04
+Saved basin 14, expAE05
+Saved basin 14, expAE10
+Saved basin 14, ctrlAE
+Saved basin 18, expAE02
+Saved basin 18, expAE03
+Saved basin 18, expAE04
+Saved basin 18, expAE05
+Saved basin 18, expAE10
+Saved basin 18, ctrlAE
+Written to /home/m10936923/scratch/Outputs/projection_data_unmasked.parquet
+   basin exp_name     model  timestep array_type  frac   gw_sums  lmbf_sums
+0      1  expAE02  DOE_MALI         0         gw   0.0 -0.000880        NaN
+1      1  expAE02  DOE_MALI         1         gw   0.0 -0.000884        NaN
+2      1  expAE02  DOE_MALI         2         gw   0.0 -0.000884        NaN
+3      1  expAE02  DOE_MALI         3         gw   0.0 -0.000884        NaN
+4      1  expAE02  DOE_MALI         4         gw   0.0 -0.000884        NaN
+basin           int64
+exp_name          str
+model             str
+timestep        int64
+array_type        str
+frac          float64
+gw_sums       float64
+lmbf_sums     float64
+dtype: object
