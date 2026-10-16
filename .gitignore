@@ -1,5 +1,7 @@
 *.slurm
-*.ipynb
+*.png
+logs/
+extra/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

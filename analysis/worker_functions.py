@@ -81,9 +81,6 @@ def process_single_model(args):
         )
 
     basin_frac = gw_sums / (gw_sums + lmbf_sums[year_indices])
-
-    #comment out below line to not mask out values below 0.5 Gt
-    basin_frac[(np.abs(gw_sums) < 0.5) & (np.abs(lmbf_sums[year_indices]) < 0.5)] = 0
     
     gw_data.close()
     lmbf.close()
